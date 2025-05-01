@@ -16,9 +16,8 @@ Muḥkam is an Arabic platform powered by artificial intelligence, built using t
 3.	General users interested in their intellectual property rights
  
 ## Key Features
-1.	For legal professionals: Ask Muḥkam detailed legal questions and receive accurate answers based on the Saudi Copyright Law and IP Regulations.
-2.	For content creators: Use the “Document Your IP” tool to automatically generate an official-style IP rights document for your creative work.
-3.	For general users: Ask Muḥkam any question about IP rights in Saudi Arabia in simple, understandable language.
+1.	For legal professionals: Ask Muhkam detailed legal questions and receive accurate answers based on the Saudi Copyright Law and IP Regulations.
+2.	For general users: Ask Muhkam any question about IP rights in Saudi Arabia in simple, understandable language.
  
 ## Technologies Used
 •	ALLAM Model: The core Arabic language model powering the chatbot.
@@ -36,9 +35,8 @@ Muḥkam is an Arabic platform powered by artificial intelligence, built using t
 2.  مؤلف للملكية
 3.  مستخدمون آخرون 
 ## الميزات
-1.  للجمهور الأول:الاستفسار من مُحكم لإعطاءهم شرح مفصل حول الاستفسار أو السؤال حول المواد القانونية ممَا يتعلق بنظام حقوق المؤلف ولائحة النظام للملكية الفكرية
-2.  للجمهور الثاني:لتوثيق ملكيته الفكرية عبر أداة "وثّق ملكيتك"
-3.  للجمهور الثالث: سؤال مُحكم عن أي شيء متعلق بنظام حقوق المؤلف ولائحة النظام للملكية الفكرية
+1.  للجمهور الأول:الاستفسار من مُحكم لإعطاءهم شرح مفصل حول الاستفسار أو السؤال حول المواد القانونية ممَا يتعلق بنظام حقوق المؤلف ولائحة النظام للملكية الفكرية"
+2.  للجمهور الثالث: سؤال مُحكم عن أي شيء متعلق بنظام حقوق المؤلف ولائحة النظام للملكية الفكرية
 
 
 ## التقنيات المستخدمة
