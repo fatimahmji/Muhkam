@@ -24,6 +24,20 @@ Muḥkam is an Arabic platform powered by artificial intelligence, built using t
 •	Prompt Engineering: Used to fine-tune user prompts and ensure accurate, legal context-aware responses.
 •	Retrieval-Augmented Generation (RAG): Combined with ElasticSearch to retrieve precise legal information from trusted documents and feed it to the model.
 
+## Model Architecture
+**Muhkam uses a hybrid RAG architecture:**
+A retriever (ElasticSearch) fetches relevant Saudi IP laws and regulations.
+A fine-tuned generative model (ALLAM) generates user friendly answers based on retrieved texts.
+
+**Model Components**
+User query → Retriever (ElasticSearch) → Retrieved documents → Generator (ALLAM).
+
+## Quantitative Results
+ROUGE-L Score: 0.68
+
+
+
+
 
 
 ## مُحكم - منصة حقوق الملكية الفكرية باستخدام الذكاء الاصطناعي
