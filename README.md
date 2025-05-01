@@ -8,7 +8,7 @@ Alkhalifa et al. [1] proposed ALLaM, a family of multilingual big language model
 Ammar et al. [2] proposed a unique use of large language models (LLMs) for predicting court verdicts in Arabic, a subject that is mostly unexplored in natural language processing (NLP). The study examined the linguistic and contextual difficulties of Arabic legal documents using a dataset of 10,813 real-world commercial court cases from Saudi Arabia. The researchers tested three popular LLMs—LLaMA-7b, JAIS-13b, and GPT-3.5-turbo—under a variety of training regimes, including zero-shot, one-shot, and fine-tuned settings. They also looked at the effect of preprocessing procedures like case summaries and English translation on model performance. ROUGE and BLEU measures were used to assess performance, along with GPT-based grading and human expert review. Notably, GPT-3.5-turbo outscored the Arabic-specific JAIS-13b and the multilingual LLaMA-7b, with average scores up to 50% higher in key evaluation categories. Despite GPT-3.5's great performance, the authors discovered errors in automated measures, emphasizing the importance of trustworthy human evaluation in legal NLP applications. This study adds to the emerging field of AI in law by demonstrating that, when combined with proper preprocessing and assessment approaches, LLMs may enhance Arabic judicial decision-making, making them a viable tool for improving efficiency and accessibility in legal analytics.
 
 ## Muhkam – Intellectual Property Platform Powered by AI
-Muḥkam is an Arabic platform powered by artificial intelligence, built using the ALLAM large language model, and specialized in Saudi Arabian intellectual property (IP) law. The platform aims to support lawyers, law students, and everyday users by answering their questions related to IP rights and legal inquiries. In addition, it provides a feature that allows authors to generate official IP documentation for their creative works.
+Muḥkam is an Arabic platform powered by artificial intelligence, built using the ALLAM large language model, and specialized in Saudi Arabian intellectual property (IP) law. The platform aims to support lawyers, law students, and everyday users by answering their questions related to IP rights and legal inquiries. 
  
 ## Target Audience
 1.	Lawyers, law students, and legal professionals
@@ -51,6 +51,3 @@ Muḥkam is an Arabic platform powered by artificial intelligence, built using t
 - **لائحة النظام - من هيئة الخبراء بمجلس الوزراء**
 - **نظام حماية حقوق المؤلف - الهيئة السعودية للملكية الفكرية**
 
-## كيفية استخدام المشروع
-### 1. إعداد البيئة
-تأكد من أنك قد قمت بتثبيت **Python 3.11** وأدوات البيئة الافتراضية مثل **Virtualenv** أو **Conda**
