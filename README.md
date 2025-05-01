@@ -26,11 +26,11 @@ Muḥkam is an Arabic platform powered by artificial intelligence, built using t
 
 ## Model Architecture
 **Muhkam uses a hybrid RAG architecture:**
-A retriever (ElasticSearch) fetches relevant Saudi IP laws and regulations.
-A fine-tuned generative model (ALLAM) generates user friendly answers based on retrieved texts.
+• A retriever (ElasticSearch) fetches relevant Saudi IP laws and regulations.
+• A fine-tuned generative model (ALLAM) generates user friendly answers based on retrieved texts.
 
 **Model Components**
-User query → Retriever (ElasticSearch) → Retrieved documents → Generator (ALLAM).
+• User query → Retriever (ElasticSearch) → Retrieved documents → Generator (ALLAM).
 
 ## Quantitative Results
 ROUGE-L Score: 0.68
